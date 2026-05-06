@@ -11,6 +11,7 @@ I’m a Senior iOS Developer with a passion for building scalable, high-performa
 - [SwiftCoreML](https://github.com/harishkumar12k/SwiftCoreML)
 - [MockServerSwift](https://github.com/harishkumar12k/MockServerSwift)
 - [DroneDelivery](https://github.com/harishkumar12k/DroneDelivery)
+- [MacMQTTServer](https://github.com/harishkumar12k/MacMQTTServer)
 
 ---
 
