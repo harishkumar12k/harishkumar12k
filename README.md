@@ -42,6 +42,7 @@ I’m a Senior iOS Developer with a passion for building scalable, high-performa
 
 ### 📫 Connect With Me
 - LinkedIn: [Harish Kumar](https://www.linkedin.com/in/harishkumar12k/)
+- HuggingFace: [Harish Kumar](https://huggingface.co/harishkumar12k)
 
 ---
 
